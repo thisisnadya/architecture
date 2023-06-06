@@ -1,2 +1,2 @@
 # architecture
-collections of cloud architecture examples 
+collections of cloud architecture diagram examples 
